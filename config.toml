@@ -1,0 +1,8 @@
+[sessions]
+api_id = 
+api_hash = " "
+
+[flood]
+messages = ["один", "два"]
+delay = 0
+count = 1
